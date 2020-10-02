@@ -4,7 +4,7 @@
 
 Meticulous and motivated undergraduate student , indulged in competitive programming,Mobile App Development and Backend Development. 
 My BTech is focused in Computer Science and I am an open-source enthisiast.
-<img align="right" img src="https://raw.githubusercontent.com/akshitagupta15june/akshitagupta15june/master/200w.webp" width="210px">
+<img align="right" img src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif" width="210px">
   
 🥇 Winner of RoboHack1.0 Software Version 2020 
 
@@ -13,9 +13,13 @@ My BTech is focused in Computer Science and I am an open-source enthisiast.
 🥇 4 star coder at Codechef.
 
 
-App Developer at AMURoboclub.
-Mobile App Developer at Tinted Mirror Media.
-Software Development Intern at HowzattFun Cricket Academy.
+### Work Experience
+
+##### App Developer at AMURoboclub.
+
+##### Mobile App Developer at Tinted Mirror Media.
+
+##### Software Development Intern at HowzattFun Cricket Academy.
 
 🔭 I’m currently working as an App Developer in AMURoboclub.
 
