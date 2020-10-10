@@ -1,5 +1,4 @@
 # Hey, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
 # I am Rishabh Sharma
 
 Meticulous and motivated undergraduate student , indulged in competitive programming,Mobile App Development and Backend Development. 
@@ -54,20 +53,20 @@ My BTech is focused in Computer Science and I am an open-source enthisiast.
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/open-roboclub/roboclub-flutter?style=flat-square"/></td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/akshitagupta15june/Social_Distance_detection"><b>💻 Social Distance Detection</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/akshitagupta15june/Social_Distance_detection?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/akshitagupta15june/Social_Distance_detection?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/akshitagupta15june/Social_Distance_detection?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/akshitagupta15june/Social_Distance_detection?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/akshitagupta15june/Social_Distance_detection?label=Python&style=flat-square"/></td>
+	      <td><a href="https://github.com/https://github.com/Rishabhltfb/Hospitality-MobileClient"><b>💻Hospitality App </b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/Rishabhltfb/Hospitality-MobileClient?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/Rishabhltfb/Hospitality-MobileClient?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/Rishabhltfb/Hospitality-MobileClient?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Rishabhltfb/Hospitality-MobileClient?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/Rishabhltfb/Hospitality-MobileClient?label=Python&style=flat-square"/></td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/akshitagupta15june/Face-X"><b>👨 Face-X</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/akshitagupta15june/Face-Recognition-Attendance-System?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/akshitagupta15june/Face-Recognition-Attendance-System?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/akshitagupta15june/Face-Recognition-Attendance-System?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/akshitagupta15june/Face-Recognition-Attendance-System?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/akshitagupta15june/Face-Recognition-Attendance-System?style=flat-square"/></td> 
+	      <td><a href="https://github.com/Rishabhltfb/Mr.medic"><b>👨 Mr. Medic</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/Rishabhltfb/Mr.medic?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/Rishabhltfb/Mr.medic?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/Rishabhltfb/Mr.medic?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Rishabhltfb/Mr.medic?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/Rishabhltfb/Mr.medic?style=flat-square"/></td> 
       </tr>
     </tbody>
   </table>
@@ -85,10 +84,10 @@ My BTech is focused in Computer Science and I am an open-source enthisiast.
 <img align="center" alt="Android Studio" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Android_Studio_icon.svg" />
 <img align="center" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="center" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/240px-Python.svg.png" />
-<img align="center" alt="Tensorflow" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/800px-Tensorflow_logo.svg.png"/>
+<!-- <img align="center" alt="Tensorflow" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/800px-Tensorflow_logo.svg.png"/> -->
 <img align="center" alt="GitHub" width="80px" src="https://keras.io/img/logo.png" />
-<img align="center" alt="OpenCV" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/730px-OpenCV_Logo_with_text_svg_version.svg.png" />
-<img align="center" alt="GitHub" width="30px" src="https://numpy.org/images/logos/numpy.svg" />
+<!-- <img align="center" alt="OpenCV" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/730px-OpenCV_Logo_with_text_svg_version.svg.png" /> -->
+<!-- <img align="center" alt="GitHub" width="30px" src="https://numpy.org/images/logos/numpy.svg" /> -->
 <img align="center" alt="GitHub" width="34px" src="https://jupyter.org/assets/main-logo.svg" />
 <img align="center" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="center" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
@@ -104,7 +103,7 @@ My BTech is focused in Computer Science and I am an open-source enthisiast.
   
   <img align="center" a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
 
- ### ⚡ Fun fact about me: ✨ I love coding+eating+repeating✨ 
+ ### ⚡ Some facts about me: ✨ I love coding+talking about startups/tech+making friends✨ 
  
 
 <h3>Connect with me!</h3>
