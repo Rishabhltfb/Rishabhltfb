@@ -1,8 +1,9 @@
 # Hey, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 # I am Rishabh Sharma
 
-Meticulous and motivated undergraduate student , indulged in competitive programming,Mobile App Development and Backend Development. 
-My BTech is focused in Computer Science and I am an open-source enthisiast.
+Meticulous and motivated undergraduate students indulged in competitive programming, Mobile App Development, and Backend Development. My BTech is focused on Computer Science and I am an open-source enthusiast.
+
+
 <img align="right" img src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif" width="210px">
   
 🥇 Winner of RoboHack1.0 Software Version 2020 
