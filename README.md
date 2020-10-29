@@ -1,16 +1,18 @@
 # Hey, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-# I am Rishabh Sharma
+# I am Rishabh Sharma :sparkles:
 
 Meticulous and motivated undergraduate students indulged in competitive programming, Mobile App Development, and Backend Development. My BTech is focused on Computer Science and I am an open-source enthusiast.
 
 
 <img align="right" img src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif" width="210px">
-  
+
+### Achievements
+
 🥇 Winner of RoboHack1.0 Software Version 2020 
 
 🥇 Second Runner Up in HackAmu2.0 hackathon organized by Amu Open Source Society. 
 
-🥇 4 star coder at Codechef.
+🥇 4 :star: coder at Codechef and 5 :star: at HackerRank.
 
 
 ### Work Experience
@@ -85,11 +87,11 @@ Meticulous and motivated undergraduate students indulged in competitive programm
 <img align="center" alt="Android Studio" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Android_Studio_icon.svg" />
 <img align="center" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="center" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/240px-Python.svg.png" />
-<!-- <img align="center" alt="Tensorflow" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/800px-Tensorflow_logo.svg.png"/> -->
-<img align="center" alt="GitHub" width="80px" src="https://keras.io/img/logo.png" />
-<!-- <img align="center" alt="OpenCV" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/730px-OpenCV_Logo_with_text_svg_version.svg.png" /> -->
+<img align="center" alt="C" width="60px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRCSfUFeILQrfYhsnEcWBlgliuP-4Z5hw979g&usqp=CAU" />
+<img align="center" alt="C++" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" />
+<img align="center" alt="JavaScript" width="100px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQUhdFgKwWT0BD32WAPhBz04H7yjV1VMu7axw&usqp=CAU" />
 <!-- <img align="center" alt="GitHub" width="30px" src="https://numpy.org/images/logos/numpy.svg" /> -->
-<img align="center" alt="GitHub" width="34px" src="https://jupyter.org/assets/main-logo.svg" />
+<img align="center" alt="Flutter" width="100px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQnhNzR85No9HnUVD_82JYwUxvthD8WJaEi7g&usqp=CAU"/>
 <img align="center" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="center" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 </br>
