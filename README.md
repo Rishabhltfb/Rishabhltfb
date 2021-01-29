@@ -8,9 +8,13 @@ Meticulous and motivated undergraduate students indulged in competitive programm
 
 ### Achievements
 
+🥇 Hactober Fest 2019 & 2020 Contributor
+
 🥇 Winner of RoboHack1.0 Software Version 2020 
 
 🥇 Second Runner Up in HackAmu2.0 hackathon organized by Amu Open Source Society. 
+
+🥇 Winner of Codigo Programming Contest Organized By AMURoboclub 
 
 🥇 4 :star: coder at Codechef and 5 :star: at HackerRank.
 
@@ -18,6 +22,8 @@ Meticulous and motivated undergraduate students indulged in competitive programm
 ### Work Experience
 
 ##### App Developer at AMURoboclub.
+
+##### CP Lead Codechef ZHCET CLUB
 
 ##### Mobile App Developer at Tinted Mirror Media.
 
