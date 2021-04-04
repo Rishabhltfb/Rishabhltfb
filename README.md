@@ -8,6 +8,10 @@ Meticulous and motivated undergraduate students indulged in competitive programm
 
 ### Achievements
 
+🥇 AIR 319 (1743 Globally) in Google HachCode
+
+🥇 Global Rank 5892 in Google Code Jam
+
 🥇 Hactober Fest 2019 & 2020 Contributor
 
 🥇 Winner of RoboHack1.0 Software Version 2020 
