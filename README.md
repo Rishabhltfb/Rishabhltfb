@@ -8,7 +8,7 @@ Meticulous and motivated undergraduate students indulged in competitive programm
 
 ### Achievements
 
-🥇 AIR 319 (1743 Globally) in Google HachCode
+🥇 AIR 319 (1743 Globally) in Google HashCode
 
 🥇 Global Rank 5892 in Google Code Jam
 
