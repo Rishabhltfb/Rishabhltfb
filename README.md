@@ -90,6 +90,10 @@ Meticulous and motivated undergraduate students indulged in competitive programm
 
 </div>
 
+Rishabh Github Streak      |  Jokes Card
+:-------------------------:|:-------------------------:
+![Rishabh GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rishabhltfb) | ![Jokes Card](https://readme-jokes.vercel.app/api)
+	
 <div align="center">
   
 <h3>Languages and Framework:</h3>
