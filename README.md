@@ -25,17 +25,19 @@ Meticulous and motivated undergraduate students indulged in competitive programm
 
 ### Work Experience
 
+##### Globalink Research Intern Mitacs in Athabasca University, Edmonton, Canada.
+
 ##### App Developer at AMURoboclub.
 
-##### CP Lead Codechef ZHCET CLUB
+##### Mentor 2021, CP Lead 2020 @ Codechef ZHCET Chapter
 
 ##### Mobile App Developer at Tinted Mirror Media.
 
 ##### Software Development Intern at HowzattFun Cricket Academy.
 
-🔭 I’m currently working as an App Developer in AMURoboclub.
+🔭 I’m currently working on my side Hustle and making Valuable Connections.
 
-💬 Ask me about my experiences in AMURoboclub, Freelancing hurdles and my development journey.
+💬 Ask me about my experiences with various Communities of my College, Freelancing hurdles, my development journey or my interest in Startups.
 
 
 
