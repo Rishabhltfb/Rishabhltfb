@@ -1,7 +1,7 @@
 # Hey, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 # I am Rishabh Sharma :sparkles:
 
-Meticulous and motivated undergraduate students indulged in competitive programming, Mobile App Development, and Backend Development. My BTech is focused on Computer Science and I am an open-source enthusiast.
+Meticulous and motivated final year undergraduate student indulged in competitive programming, Mobile App Development, and Backend Development. My BTech is focused on Computer Science and I am an open-source enthusiast.
 
 
 <img align="right" img src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif" width="210px">
@@ -25,9 +25,12 @@ Meticulous and motivated undergraduate students indulged in competitive programm
 
 ### Work Experience
 
+
+##### Software Engineer Intern at iTribe.
+
 ##### Globalink Research Intern Mitacs in Athabasca University, Edmonton, Canada.
 
-##### App Developer at AMURoboclub.
+##### Coordinator 2021, App Developer 2020 at AMURoboclub.
 
 ##### Mentor 2021, CP Lead 2020 @ Codechef ZHCET Chapter
 
