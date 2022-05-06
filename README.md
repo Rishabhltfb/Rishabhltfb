@@ -1,7 +1,15 @@
 # Hey, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 # I am Rishabh Sharma :sparkles:
 
-Meticulous and motivated final year undergraduate student indulged in competitive programming, Mobile App Development, and Backend Development. My BTech is focused on Computer Science and I am an open-source enthusiast.
+I'm a Hustler!
+
+I love being part of great things, initiatives, projects, and communities.
+My College journey is full of such ventures. College Community Lead, Mentoring juniors, Startups, Freelancing, Winning Hackathons, Mitacs Research Intern, etc.
+Focusing on making valuable connections & exploring real industry-based opportunities.
+
+I am interested in Software Development.
+<br>
+Fullstack + Mobile App
 
 
 <img align="right" img src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif" width="210px">
