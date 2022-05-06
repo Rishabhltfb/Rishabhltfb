@@ -26,7 +26,7 @@ Meticulous and motivated final year undergraduate student indulged in competitiv
 ### Work Experience
 
 
-##### Software Engineer Intern at iTribe.
+##### Software Engineer at iTribe.
 
 ##### Globalink Research Intern Mitacs in Athabasca University, Edmonton, Canada.
 
@@ -103,7 +103,6 @@ Rishabh Github Streak      |  Jokes Card
   
 <h3>Languages and Framework:</h3>
 
-<img align="center" alt="Android Studio" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Android_Studio_icon.svg" />
 <img align="center" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="center" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/240px-Python.svg.png" />
 <img align="center" alt="C" width="60px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRCSfUFeILQrfYhsnEcWBlgliuP-4Z5hw979g&usqp=CAU" />
