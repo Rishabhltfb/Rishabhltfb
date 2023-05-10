@@ -16,6 +16,8 @@ Fullstack + Mobile App
 
 ### Achievements
 
+🥇 Winner Future of Gaming Hackathon organised by Game 24/7, YourStory & Amazon
+
 🥇 AIR 319 (1743 Globally) in Google HashCode
 
 🥇 Global Rank 5892 in Google Code Jam
@@ -34,7 +36,7 @@ Fullstack + Mobile App
 ### Work Experience
 
 
-##### Software Engineer at iTribe.
+##### Founding Software Engineer at iTribe (Product Based Wealth Tech Startup) Bangalore, India
 
 ##### Globalink Research Intern Mitacs in Athabasca University, Edmonton, Canada.
 
@@ -132,7 +134,7 @@ Rishabh Github Streak      |  Jokes Card
   
   <img align="center" a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
 
- ### ⚡ Some facts about me: ✨ I love coding+talking about startups/tech+making friends✨ 
+ ### ⚡ Some facts about me: ✨ I love tech + talking about businesses/investments + connecting with self driven people✨ 
  
 
 <h3>Connect with me!</h3>
