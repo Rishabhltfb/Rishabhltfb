@@ -36,6 +36,8 @@ Fullstack + Mobile App
 ### Work Experience
 
 
+##### Software Engineer at JAR (Product Based FinTech Startup) Bangalore, India
+
 ##### Founding Software Engineer at iTribe (Product Based Wealth Tech Startup) Bangalore, India
 
 ##### Globalink Research Intern Mitacs in Athabasca University, Edmonton, Canada.
