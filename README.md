@@ -35,6 +35,7 @@ Fullstack + Mobile App
 
 ### Work Experience
 
+##### Software Engineer at STAGE (Regional OTT for BHARAT) Delhi, India
 
 ##### Software Engineer at JAR (Product Based FinTech Startup) Bangalore, India
 
